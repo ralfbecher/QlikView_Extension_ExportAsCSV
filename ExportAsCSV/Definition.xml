@@ -1,0 +1,5 @@
+<ExtensionObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Definition.xsd" Label="Export as CSV" Description="Export as CSV" PageHeight="20000">
+  <Dimension Multiple="" Label="Dimensions:" TargetName="Dimension" Initial="" />
+  <Expression Multiple="" Label="Expressions:" TargetName="Expression" Initial="" />	
+  <Text Label="Delimiter character" Type="text" Initial="" Expression=";"/>
+</ExtensionObject>
